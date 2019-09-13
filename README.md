@@ -15,15 +15,7 @@ It's important to note, that these tests are not the same. ACT tests different s
 
 
 
-### Contents:
-- [2017 Data Import & Cleaning](#Data-Import-and-Cleaning)
-- [2018 Data Import and Cleaning](#2018-Data-Import-and-Cleaning)
-- [Exploratory Data Analysis](#Exploratory-Data-Analysis)
-- [Data Visualization](#Visualize-the-data)
-- [Descriptive and Inferential Statistics](#Descriptive-and-Inferential-Statistics)
-- [Outside Research](#Outside-Research)
-- [Conclusions and Recommendations](#Conclusions-and-Recommendations)
-
+### Data Dictionary:
 
 |Feature|Type|Dataset|Description|
 |---|---|---|---|
