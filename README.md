@@ -41,7 +41,7 @@ An area of concern in my research is that overall test scores are negatively cor
 
 Knowing the percent of students that took both exams would have been extremely useful in my research. It would allow me to look for trends in states where neither exam is mandatory.
 
-Sources -
+## Resources
  - [ACT Scores](https://blog.prepscholar.com/act-scores-by-state-averages-highs-and-lows)
  - [SAT Scores](https://blog.collegevine.com/here-are-the-average-sat-scores-by-state/)
  - [Geocodes](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=2ahUKEwi2vPDWgOfiAhUpU98KHb1KAJMQFjABegQIARAC&url=https%3A%2F%2Fwww2.census.gov%2Fprograms-surveys%2Fpopest%2Fgeographies%2F2015%2Fstate-geocodes-v2015.xls&usg=AOvVaw3ltt7GNQSeeGvJjxG53B9I)
